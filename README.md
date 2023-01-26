@@ -5,7 +5,7 @@ Use the arrow keys to run around the village and talk to villagers by pressing E
 
 <h2> Mini Games/ Tasks </h2>
 1. Maze <br>
-2. Apple Hunt
+2. Apple Hunt <br>
 
 
 ![Capture](https://user-images.githubusercontent.com/119620642/214636150-81eba479-7e50-46e6-b63e-cf78089358b8.PNG)
@@ -15,4 +15,5 @@ Use the arrow keys to run around the village and talk to villagers by pressing E
 
 <h2>Play the Game:</h2>
 https://liluo.io/averymarco/special-farm--top-down-rpg-
+<br>
 You can also download the .zip file
